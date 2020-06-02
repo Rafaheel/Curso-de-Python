@@ -1,0 +1,5 @@
+DEBUG 27/05/2020 15:53:33: Isso é uma msg de debug
+INFO 27/05/2020 15:53:33: Isso é uma msg de debug info
+WARNING 27/05/2020 15:53:33: Isso é uma msg de debug warning
+ERROR 27/05/2020 15:53:33: Isso é uma msg de debug error
+CRITICAL 27/05/2020 15:53:33: Isso é uma msg de debug critical
